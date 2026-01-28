@@ -1,0 +1,15 @@
+.header {
+  background: white;
+  padding: 0 20px;
+  font-size: 18px;
+  font-weight: 600;
+  border-bottom: 1px solid #eee;
+}
+
+.content {
+  margin: 16px;
+  padding: 16px;
+  background: white;
+  border-radius: 6px;
+  min-height: 80vh;
+}
