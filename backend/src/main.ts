@@ -6,8 +6,8 @@ async function bootstrap() {
 
   app.enableCors({
     origin: [
-      'http://localhost:5173',        // local dev
-      'https://your-frontend.onrender.com' // production frontend
+      'http://localhost:4173',        // local dev
+      'https://posbuzz-2-frontend.onrender.com' // production frontend
     ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
     credentials: true,
